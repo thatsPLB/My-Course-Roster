@@ -1,8 +1,9 @@
 import { useEffect, useState } from "react";
 import SingleBlog from "../SingleBlog/SingleBlog";
+import PropTypes from 'prop-types';
 
 
-const Blogs = () => {
+const Blogs = ({handleAddToArea,handleCredit}) => {
     const [blogs, setBlogs] = useState([]);
     useEffect(() =>{
         fetch('Data.json')
@@ -14,10 +15,16 @@ const Blogs = () => {
         <div>
             {
               blogs.map(blog =><SingleBlog key={blog.id}
-                 blog={blog}></SingleBlog>)  
+                 blog={blog}
+                 handleAddToArea={handleAddToArea}
+                 handleCredit={handleCredit}
+                 ></SingleBlog>)  
             }
         </div>
     );
 };
-
+Blogs.prototype = {
+    handleAddToArea : PropTypes.func,
+    handleCredit: PropTypes.func
+}
 export default Blogs;
