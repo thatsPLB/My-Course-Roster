@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image_url": "https://i.ibb.co/882fM0f/Rectangle-2.png",
+      "image_url": "https://i.ibb.co/xzsTSTv/Rectangle-2-2.png",
       "name": "Introduction to C Programming",
       "description": "Introduction to C Programming is a foundational course that provides a comprehensive overview of the C programming language. Learn the basics of C, including variables, control structures, and functions, and gain the essential skills needed for software development and system programming.",
       "price": "$199",
@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "image_url": "https://i.ibb.co/wJkBjP9/Rectangle-2-1.png",
+      "image_url": "https://i.ibb.co/JsMqcmY/Rectangle-2-3.png",
       "name": "Introduction to Algorithms",
       "description": "Introduction to Algorithms is a foundational course that provides a comprehensive overview of the fundamental principles and techniques used in algorithm design and analysis. This course explores the essential concepts necessary for efficient problem-solving and forms the basis for advanced computer science and programming endeavors.",
       "price": "$249",
@@ -17,7 +17,7 @@
     },
     {
       "id": 3,
-      "image_url": "https://i.ibb.co/xzsTSTv/Rectangle-2-2.png",
+      "image_url": "https://i.ibb.co/dBbzRT4/Rectangle-2-4.png",
       "name": "Introduction to C++ for DSA",
       "description": "Introduction to C++ for DSA: Get started with the fundamentals of C++ programming, laying a strong foundation for mastering Data Structures and Algorithms (DSA). Dive into the syntax and core concepts of C++ to equip yourself for efficient algorithmic problem-solving.",
       "price": "$179",
@@ -25,7 +25,7 @@
     },
     {
       "id": 4,
-      "image_url": "https://i.ibb.co/JsMqcmY/Rectangle-2-3.png",
+      "image_url": "https://i.ibb.co/GTTgWGQ/Rectangle-3.png",
       "name": "Basic Data Structures",
       "description": "Basic Data Structures are fundamental building blocks in computer science and programming. They are essential tools for organizing and storing data efficiently. These structures include arrays, linked lists, stacks, and queues. Arrays provide a simple way to store a collection of elements, while linked lists allow for dynamic memory allocation. Stacks and queues facilitate data manipulation with specific rules: stacks follow the Last-In-First-Out (LIFO) principle, while queues use the First-In-First-Out (FIFO) approach. Understanding these basic data structures is crucial for anyone aspiring to become a proficient programmer, as they form the foundation for more complex data structures and algorithms.",
       "price": "$99",
@@ -33,7 +33,7 @@
     },
     {
       "id": 5,
-      "image_url": "https://i.ibb.co/dBbzRT4/Rectangle-2-4.png",
+      "image_url": "https://i.ibb.co/882fM0f/Rectangle-2.png",
       "name": "Introduction to OOP Python",
       "description": "Introduction to Object-Oriented Programming (OOP) in Python is a foundational course that provides a comprehensive overview of the principles and concepts of OOP using Python as the programming language. In this course, you'll explore the fundamental OOP concepts such as classes, objects, inheritance, encapsulation, and polymorphism. By the end of the course, you'll have a solid understanding of how to design and create Python programs using the powerful paradigm of object-oriented programming, making your code more organized, reusable, and efficient.",
       "price": "$299",
@@ -49,7 +49,7 @@
     },
     {
       "id": 7,
-      "image_url": "https://i.ibb.co/B3yQPNw/Rectangle-2-6.png",
+      "image_url": "https://i.ibb.co/r4TP5p2/Rectangle-3-1.png",
       "name": "AWS, Cloud Computing",
       "description": "Amazon Web Services (AWS) is a leading cloud computing platform that provides a wide range of scalable and cost-effective cloud services. With AWS, businesses and individuals can access computing power, storage, and a variety of tools and applications over the internet, without the need to invest in and maintain their own physical infrastructure. AWS offers a flexible and reliable cloud computing environment that enables users to build, deploy, and manage applications and services efficiently, helping them innovate, scale, and grow their operations while reducing IT costs.",
       "price": "$199",
@@ -57,7 +57,7 @@
     },
     {
       "id": 8,
-      "image_url": "https://i.ibb.co/B3yQPNw/Rectangle-2-6.png",
+      "image_url": "https://i.ibb.co/wJkBjP9/Rectangle-2-1.png",
       "name": "Database (MySQL)",
       "description": "MySQL is a widely used relational database management system (RDBMS) known for its efficiency and reliability. It provides a structured and organized way to store, manage, and retrieve data. MySQL is renowned for its speed and scalability, making it a popular choice for web applications, e-commerce platforms, and various data-driven projects. With its robust features and easy-to-learn SQL language, MySQL empowers developers and businesses to efficiently handle their data needs, from small-scale databases to large, enterprise-level systems.",
       "price": "$279",
