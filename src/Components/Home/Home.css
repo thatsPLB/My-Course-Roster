@@ -1,0 +1,23 @@
+.card{
+    width: 280px;
+    height: 470px;
+    border: 1px solid gray;
+    
+}
+.info{
+    display: flex;
+    justify-content: space-evenly ;
+}
+.card-btn{
+    background-color: darkcyan;
+    width: 280px;
+}
+.home-container{
+    display: flex;
+}
+.card-container{
+    width: 600px;
+    display: flex;
+    flex-wrap:wrap;
+    gap: 15px;
+}
